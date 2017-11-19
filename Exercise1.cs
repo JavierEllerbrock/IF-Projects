@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//* In the following exercise it will be determined if a number is multiple of 3, 5, 7 or neither 
 namespace Exercise1
 {
     class Program
